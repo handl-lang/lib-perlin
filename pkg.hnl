@@ -1,0 +1,2 @@
+-- lib-perlin: package manifest.
+{ modules: ["perlin"] }

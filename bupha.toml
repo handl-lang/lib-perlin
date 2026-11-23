@@ -6,7 +6,7 @@
 
 [[repos]]
 name = "handl-lang/lib-perlin"
-dir = "/home/luis/GitHub/handl-lang/lib-perlin"
+dir = "~//GitHub/handl-lang/lib-perlin"
 branch = "refs/heads/main"
   [repos.runner]
   kind = "script"

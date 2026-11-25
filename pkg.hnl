@@ -1,2 +1,2 @@
 -- lib-perlin: package manifest.
-{ modules: ["perlin"], description: "Perlin noise generators (Handl stdlib port).", license: "MIT" }
+{ modules: ["perlin"], name: "perlin", description: "Perlin noise generators (Handl stdlib port).", license: "MIT" }

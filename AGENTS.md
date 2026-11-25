@@ -11,7 +11,7 @@ re-exports them.
 | `src/perlin.hnl` | the .hnl sources |
 | `src/perlin.test.hnl` | the .hnl test suite |
 | `src/lib.rs` | const-only crate re-exporting the source |
-| `pkg.hnl`, `scripts/hnl-gate.sh`, `ci.sh` | manifest / gate / bupha entry |
+| `pkg.hnl`, `scripts/hnl-gate.sh`, `workflows/gate.yaml` | manifest / gate / bupha entry |
 
 ## Contract
 
